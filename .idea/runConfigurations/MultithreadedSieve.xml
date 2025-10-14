@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MultithreadedSieve" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="MultithreadedSieve" />
+    <module name="PrimeNumbers-MultiThread" />
+    <option name="VM_PARAMETERS" value="-Xms4g -Xmx8g" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
